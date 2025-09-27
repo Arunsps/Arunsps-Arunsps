@@ -1,5 +1,5 @@
 # Arunsps
-# 👋 Hi there, I'm Arun S.P.S. (Arunsps)!
+# 👋 Hi there, I'm Arunkumar (Arunsps)!
 
 ### 🚀 Java Developer | Problem Solver | Tech Enthusiast
 
