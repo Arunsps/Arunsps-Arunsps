@@ -43,11 +43,5 @@ I can write Java code faster than I can make coffee—and I make a mean cup of c
 
 ---
 
-## 🌐 Let's Connect!
-
-[![LinkedIn](https://www.linkedin.com/in/arun-kumar-work/)
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
